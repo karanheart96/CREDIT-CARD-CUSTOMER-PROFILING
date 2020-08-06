@@ -11,4 +11,4 @@ EXPECTATIONS :
 -	Identify characterisitics of the customer segments using detailed profiling.
 -	Provide the strategic insights and implementation of strategies for given set of customer characteristics
 
-#### Copyright 2019, Shriya Jain, All rights reserved
+
